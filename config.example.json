@@ -1,0 +1,29 @@
+{
+    "_comment": "Copy this file to config.json and fill in your values. Run setup.py for an interactive wizard.",
+
+    "TOKEN": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "MONGO_URI": "mongodb+srv://username:password@cluster.mongodb.net/",
+    "MONGO_DB": "animedb",
+    "COLLECTION_NAME": "episodes",
+    "EPISODES_COLLECTION": "episodes",
+    "ANIMES_COLLECTION": "animes",
+
+    "GUILD_ID": 000000000000000000,
+    "EPISODES_CHANNEL_ID": 000000000000000000,
+    "SEASONS_CHANNEL_ID": 000000000000000000,
+    "MODERATOR_ROLE_ID": 000000000000000000,
+    "EPISODES_ROLE_ID": 000000000000000000,
+    "SEASONS_ROLE_ID": 000000000000000000,
+
+    "CHECK_INTERVAL": 300,
+    "BATCH_THRESHOLD": 8,
+    "MINI_BATCH_THRESHOLD": 3,
+    "BATCH_HOURS": 24,
+    "START_DATE": "2025-01-01T00:00:00Z",
+    "REACTION_EMOJI": "🎉",
+
+    "WEEKLY_DIGEST_ENABLED": false,
+    "DIGEST_CHANNEL_ID": null,
+
+    "DASHBOARD_PORT": 5050
+}

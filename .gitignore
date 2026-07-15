@@ -1,0 +1,60 @@
+# ── Sensitive configuration (NEVER commit these) ──────────────────────────────
+config.json
+*.env
+.env
+
+# ── Bot runtime state files (user-specific, not for source control) ───────────
+posted.json
+posted_metadata.json
+posted_seasons.json
+posted_animeseasons.json
+dashboard_alerts.json
+dashboard_settings.json
+config_audit_log.json
+weekly_digest.json
+
+# ── Backup files created by integrity auto-fix ─────────────────────────────────
+*.backup_*
+*.corrupted_backup
+
+# ── Log files ─────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# ── IDE / editor files ─────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── PyInstaller (if you attempt to build a standalone binary) ─────────────────
+*.spec
+dist/
+build/
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
