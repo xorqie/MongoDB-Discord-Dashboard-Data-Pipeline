@@ -10,11 +10,11 @@ Designed as a configurable automation platform rather than a single-purpose bot,
 
 ### Main Dashboard
 
-![Main Dashboard](images/dashboard-overview.png)
+![Main Dashboard](images/dashboardoverview.png)
 
 ### Database Overview
 
-![Database Overview](images/database-overview.png)
+![Database Overview](images/databaseoverview.png)
 
 ### Analytics Dashboard
 
@@ -24,11 +24,11 @@ Designed as a configurable automation platform rather than a single-purpose bot,
 
 ### Live Logs & Monitoring
 
-![Live Logs](images/live-logs.png)
+![Live Logs](images/livelogs.png)
 
 ### Discord Announcement Integration
 
-![Posted Announcements](images/posted-announcements.png)
+![Posted Announcements](images/postedannouncements.png)
 
 ### Application Appearance & Configuration
 
