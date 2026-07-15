@@ -9,35 +9,30 @@ Designed as a configurable automation platform rather than a single-purpose bot,
 ## Dashboard Preview
 
 ### Main Dashboard
-<p align="center">
-  <img src="images/dashboard-overview.png" width="800">
-</p>
+
+![Main Dashboard](images/dashboard-overview.png)
 
 ### Database Overview
-<p align="center">
-  <img src="images/database-overview.png" width="800">
-</p>
+
+![Database Overview](images/database-overview.png)
 
 ### Analytics Dashboard
-<p align="center">
-  <img src="images/analytics.png" width="48%">
-  <img src="images/analytics-2.png" width="48%">
-</p>
+
+![Analytics](images/analytics.png)
+
+![Analytics Details](images/analytics-2.png)
 
 ### Live Logs & Monitoring
-<p align="center">
-  <img src="images/live-logs.png" width="800">
-</p>
+
+![Live Logs](images/live-logs.png)
 
 ### Discord Announcement Integration
-<p align="center">
-  <img src="images/posted-announcements.png" width="800">
-</p>
+
+![Posted Announcements](images/posted-announcements.png)
 
 ### Application Appearance & Configuration
-<p align="center">
-  <img src="images/appearance.png" width="800">
-</p>
+
+![Appearance](images/appearance.png)
 
 ---
 
