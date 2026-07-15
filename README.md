@@ -20,7 +20,7 @@ Designed as a configurable automation platform rather than a single-purpose bot,
 
 ![Analytics](images/analytics.png)
 
-![Analytics Details](images/analytics-2.png)
+![Analytics Details](images/analytics2.png)
 
 ### Live Logs & Monitoring
 
